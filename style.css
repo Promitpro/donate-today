@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Prompt', sans-serif;
+}
+#background-part{
+
+}
+.header-div{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    padding-left: 50px;
+    padding-top: 150px;
+    color: white;
+    text-align: center;
+    padding-bottom: 178px;
+}
+.design-header{
+    font-size: 65px;
+    font-weight: bold;
+    line-height: 80px;
+    
+}
+.design-p{
+    font-size: 20px;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: #ff5959;
+    border-radius: 5%;
+    padding: 15px 20px;
+    font-size: 18px;
+}
+.header-class{
+    font-size: 45px;
+    font-weight: bold;
+}
+.mid-div{
+    text-align: center;
+    margin: 50px;
+    
+}
+.mid-div div{
+    display: inline-block;
+    padding: 10px;
+    background-color: #fafafa;
+    margin: 10px;
+    width: 120px;
+    height: 120px;
+    border-radius: 5%;
+    color: #707070;
+    margin-bottom: 60px;
+}
+.mid-div div p{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+#donate-200{
+    color: #ff5959;
+    background-color: #fdf3f3;
+    border: 1px solid #ff5959;
+}
+#mid-p{
+    color: #afa8a8;
+    margin-bottom: 10px;
+}
+hr{
+    color: #afa8a8;
+    width: 700px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+#sec2{
+    margin-bottom: 200px;
+}
+#mid-id p{
+    color: #807c7c;
+}
+.card-div{
+    display: flex;
+    margin: 100px;
+}
+.card-div div{
+    padding: 40px;
+    text-align: justify;
+    border-radius: 2%;
+    margin: 10px;
+}
+.card-div div h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+#card1{
+    background-color: rgb(205, 243, 255);
+}
+#card2{
+    background-color: rgb(245, 224, 227);
+}
+#card3{
+    background-color: rgb(250, 250, 200);
+}
+#card1 p, #card2 p, #card3 p{
+    color: #807c7c;
+}
+.card-div div h3{
+    padding: 10px;
+}
+#sec3{
+
+}
+#sec4{
+    display: flex;
+    margin: 40px;
+    
+}
+#sec4 div{
+    margin: 50px;
+    width: 50%;
+    padding: 20px;
+}
+#sec4 div p{
+    color: #807c7c;
+    font-size: 18px;
+}
+#sec4 div img{
+    width: 110%;
+}
+#sec5{
+    display: flex;
+    margin: 40px;
+}
+#sec5 div{
+    margin: 50px;
+    width: 50%;
+    padding: 20px;
+}
+#sec5 div p{
+    color: #807c7c;
+    font-size: 18px;
+}
+#sec5 div img{
+    width: 110%;
+}
+#sec6{
+    text-align: center;
+    margin-bottom: 150px;
+}
+#sec6 div p{
+    color: #807c7c;
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+.new{
+    width: 800px;
+    height: 180px;
+    background-color: rgb(250, 250, 200);
+    text-align: center;
+    margin-left: 300px;
+    padding: 20px 40px;
+}
+
+.new input{
+    
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: #807c7c;
+    text-decoration: none;
+}
+#btn1{
+    text-decoration: none;
+    color: white;
+    background-color: #ff5959;
+    border-radius: 2%;
+    padding: 15px 20px;
+    font-size: 15px;
+}
+.new div{
+    padding-top: 45px;
+}
+footer{
+    background-color: rgb(9, 9, 31);
+    text-align: center;
+    padding: 50px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    margin-bottom: 20px;
+    color: rgb(250, 102, 127);
+    
+}
+footer p{
+    color: rgb(192, 189, 189);
+    font-size: small;
+}
